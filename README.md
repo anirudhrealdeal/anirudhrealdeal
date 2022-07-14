@@ -10,3 +10,4 @@
 - ⚡ Fun fact: I'm Batman.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anirudhrealdeal&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anirudhrealdeal)](https://github.com/anirudhrealdeal/github-readme-stats)
